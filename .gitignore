@@ -9,7 +9,6 @@ npm-debug.*
 *.orig.*
 web-build/
 screenshots/*
-*.png
 
 # macOS
 .DS_Store
