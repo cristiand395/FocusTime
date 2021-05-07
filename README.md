@@ -2,9 +2,9 @@
 
 This is an app to focus on tasks for determinate minutes (10, 15 and 20 minutes), besides a history of your completed and uncompleted tasks that could be clean.
 
-### Real
-<img src="/1.jpeg">
-<img src="/2.jpeg">
+### Screenshots
+<img src="/1.png">
+<img src="/2.png">
 
 ## Lenguajes
  - JAVASCRIPT
